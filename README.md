@@ -6,4 +6,4 @@ C言語講習2024年配布用コード
 まで連絡お願いします  
 ![image](https://github.com/yudo417/Robo-ism_lec/assets/157291276/f04b7ae7-ed8e-4212-a3b2-cb171a1a327d)  
 「code」と書かれている緑の所をクリックして
-「Downloat ZIP」と書かれている所からZIPファイルとして最初にまとめてダウンロードすると楽です
+「Download ZIP」と書かれている所からZIPファイルとして最初にまとめてダウンロードすると楽です
